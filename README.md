@@ -10,6 +10,8 @@ Cilab 與曹松清畫家合作設計出以馬祖藍眼淚為主題的互動式�
 - [Unity 藍眼淚專案](https://github.com/Cobra30621/BlueTear_unity)
 - [Unity 執行檔](https://github.com/Cobra30621/BlueTear-Execute)
 - [總交接文件目錄](https://hackmd.io/bshavgPmR7iQqVW_mfMg6Q)
+- [sentry-藍眼淚 Unity 端錯誤訊息偵測](https://kfcilab.sentry.io/issues/?project=4507429852413952&referrer=sidebar)
+
 
 ## 輸出專案
 
