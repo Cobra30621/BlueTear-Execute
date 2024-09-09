@@ -23,9 +23,10 @@ Cilab 與曹松清畫家合作設計出以馬祖藍眼淚為主題的互動式�
 
 ## 執行專案
 
-
-- 詳情請看 [使用說明.docx]
-
+- 需要在電腦下載 AnyDesk, 並將 AnyDesk.exe 放入資料夾中
+- 打開 `點我執行專案.exe`
+  - 細節可參考 `使用說明.docx`
+  - [藍眼淚開啟專案說明](https://www.youtube.com/watch?v=NxuSciEpTdU)
 
 ### 開發者工具
 
